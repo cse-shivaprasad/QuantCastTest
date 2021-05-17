@@ -14,7 +14,7 @@ This is a java based project which takes csv file and date(in String) as an inpu
 - Unit Test Coverage
 
 ### Command
-java -jar <jar-name> -main com.quantcast.driver.Driver.java -f {input file location} -d {filter date in yyyy-MM-dd format}
+java -jar {jar-name} -main com.quantcast.driver.Driver.java -f {input file location} -d {filter date in yyyy-MM-dd format}
 
 
 
