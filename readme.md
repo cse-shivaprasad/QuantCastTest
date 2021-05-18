@@ -16,8 +16,8 @@ This is a java based project which takes csv file and date(in String) as an inpu
 ### Programming Language & Libraries
 - Programming Language : Java
 - Libraries : 
--- JUnit : Unit Testing
--- JCommander :  Standardized processing of run time arguments
+  - JUnit : Unit Testing
+  - JCommander :  Standardized processing of run time arguments
 
 ### Command
 java -jar {jar-name} -main com.quantcast.driver.Driver.java -f {input file location} -d {filter date in yyyy-MM-dd format}
